@@ -46,8 +46,7 @@ N | Company / website (Компания / сайт) | Details (Детали) |
 12 | CloudShop | Облачный сервис управления магазином и складом
 13 | HyperComments | Система комментариев для сайтов и блогов
 
-## Artists, musicians & students services
-## Сервисы для студентов, музыкантов и художников
+## Artists, musicians & students services <BR> Сервисы для студентов, музыкантов и художников
 N | Company / website (Компания / сайт) | Details (Детали) |
 | - | - | - |
 0 | SoundCloud | Онлайн-хостинг аудиофайлов, альбомов, продажа треков
@@ -62,21 +61,18 @@ N | Company / website (Компания / сайт) | Details (Детали) |
 9 | Readymag | Онлайн-дизайнерская платформа
 10 | Webflow | Платформа для создания визуального контента
 
-## Internet of Things
-## Интернет вещей
+## Internet of Things <BR> Интернет вещей
 N | Company / website (Компания / сайт) | Details (Детали) |
 | - | - | - |
 0 | Samsung SmartHub & Apps | Функция "смарт-тв" телевизоров Samsung, предосталвяющая расширенные возможности для ТВ, например сторонние приложения YouTube и приложения телеканалов
 1 | ITEAD / SONOFF | Отказали устройства "умный дом" фирмы ITEAD/SONOFF. Эти устройства призваны управлять электроприборами по сигналу из интернета, у многих эти реле стоят на дачах для управления отопительными котлами, освещением, воротами и т п.
 
-## Delivery services
-## Службы доставки
+## Delivery services <BR> Службы доставки
 N | Company / website (Компания / сайт) | Details (Детали) |
 | - | - | - |
 0 | CDEK | Служба доставки посылок в РФ и странах СНГ: посылки не меняют статусы, водители не могут зарегистрировать прибытие.
 
-## Games & game services suffered
-## Пострадавшие игры и сервисы игровой тематики
+## Games & game services suffered <BR> Пострадавшие игры и сервисы игровой тематики
 N | Company / website (Компания / сайт) | Details (Детали) |
 | - | - | - |
 0 | Сервисы PlayStation Network | игровые приставки Sony
@@ -97,8 +93,7 @@ N | Company / website (Компания / сайт) | Details (Детали) |
 15 | Metal waltz | мобильная игра
 16 | FIFA | Футбольный симулятор
 
-## VPN & Proxy services suffered
-## Пострадавшие сервисы VPN & Proxy
+## VPN & Proxy services suffered <BR> Пострадавшие сервисы VPN & Proxy
 N | Company / website (Компания / сайт) | Details (Детали) |
 | - | - | - |
 0 | @socks5_bot | Телеграм-бот
@@ -107,19 +102,14 @@ N | Company / website (Компания / сайт) | Details (Детали) |
 And in the end, because of overoad, the RKN "Revizor" service was down due to this activity, too.
 И в конце концов, от перегрузки упал и сам Роскомнадзоровский комплекс «Ревизор».
 
-## Sources of information
-## Источники информации
+## Sources of information <BR> Источники информации
 * http://lentach.media/articles/spisok-postradavshikh-ot-blokirovok-rkn/
 * https://tjournal.ru/69282-im-eshche-mnogo-chego-blokirovat-pridetsya-kto-postradal-iz-za-borby-roskomnadzora-s-telegram
 
-## Improving the list
-## Как улучшить список
+## Improving the list <BR> Как улучшить список
 * Please add troublesome or blocked services - пожалуйста, помогите добавлять проблемные или заблокированные сервисы
 * You can help adding links - также можно помочь добавляя ссылки на посты и статьи
 
-## Useful links
-## Полезные ссылки
+## Useful links <BR> Полезные ссылки
 * VPN Compare (сравнение VPN) - https://thatoneprivacysite.net/vpn-section/
 * Search for software/service alternative (поиск альтернативы для софта или сервиса) - AlternativeTo.net
-
-

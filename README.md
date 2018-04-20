@@ -21,7 +21,7 @@ N | Company / website (Компания / сайт) | Details (Детали) |
 11 | Сервисы Gett Taxi | У главного конкурента Uber перестала работать партнёрская панель, и тысячи водителей в России уже несколько дней не могут получать зарплату.
 12 | Ivideon | Видео-хостинг, облачные системыви, сервисы видеонаблюдения для ресторанов и кафе. Компания работает с Google, «Роснефтью», «МегаФоном», DHL и «Ростелекомом».
 13 | eLama | Сервис автоматиации контекстной рекламы
-14 | КупиБилет | Система онлайн-бронирования и покупки билетов
+14 | КупиБилет | Система онлайн-бронированинтия и покупки билетов
 15 | Lifehacker.ru | Информационно-развлекательный сайт с новостями, лайфхаками и инструкциями
 16 | Medentica | Стоматологические лаборатории Medentica потеряли возможность использования 3D сканеров (программа не может проверить лицензию на сервере и отказывается работать)
 17 | Белканто | Благотворительный фонд 
@@ -123,6 +123,7 @@ And in the end, because of overoad, the RKN "Revizor" service was down due to th
 ## Sources of information <BR> Источники информации
 * http://lentach.media/articles/spisok-postradavshikh-ot-blokirovok-rkn/
 * https://tjournal.ru/69282-im-eshche-mnogo-chego-blokirovat-pridetsya-kto-postradal-iz-za-borby-roskomnadzora-s-telegram
+* https://www.vedomosti.ru/technology/articles/2018/04/17/766923-kto-postradal
 
 ## Improving the list <BR> Как улучшить список
 * Please add troublesome or blocked services - пожалуйста, помогите добавлять проблемные или заблокированные сервисы

@@ -90,7 +90,7 @@ N | Company / website (Компания / сайт) | Details (Детали) |
 0 | CDEK | Служба доставки посылок в РФ и странах СНГ: посылки не меняют статусы, водители не могут зарегистрировать прибытие
 1 | "Птичка" | Курьерская служба доставки
 
-## Games & game services <BR> Пострадавшие игры и сервисы игровой тематики
+## Games & game services <BR> Игры и сервисы игровой тематики
 N | Company / website (Компания / сайт) | Details (Детали) |
 | - | - | - |
 0 | Сервисы PlayStation Network | игровые приставки Sony
@@ -111,7 +111,7 @@ N | Company / website (Компания / сайт) | Details (Детали) |
 15 | Metal waltz | мобильная игра
 16 | FIFA | Футбольный симулятор
   
-## VPN & Proxy services suffered <BR> Пострадавшие сервисы VPN & Proxy
+## VPN & Proxy services <BR> Сервисы VPN & Proxy
 N | Company / website (Компания / сайт) | Details (Детали) |
 | - | - | - |
 0 | @socks5_bot | Телеграм-бот

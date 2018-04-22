@@ -37,6 +37,8 @@ N | Company / website (Компания / сайт) | Details (Детали) |
 27 | ВьетКафе | Сеть Вьетнамских ресторанов
 28 | О'Кей | Служба доставки гипермаркета "О'Кей" оказалась недоступна.
 29 | Scaleway | Облачный хостинг, Амстердам
+30 | Бургер Кинг | Сеть быстрого питания - проблемы с безналичной оплатой
+31 | Музей Московского Кремля - не работает онлайн-оплата билетов
 
 ## Messaging, social, planning and business services suffered <BR> Пострадавшие чаты, соц. сети, бизнес-системы, планировщики и мессенджеры
 N | Company / website (Компания / сайт) | Details (Детали) |
@@ -134,3 +136,8 @@ And in the end, because of overoad, the RKN "Revizor" service was down due to th
 ## Useful links <BR> Полезные ссылки
 * VPN Compare (сравнение VPN) - https://thatoneprivacysite.net/vpn-section/
 * Search for software/service alternative (поиск альтернативы для софта или сервиса) - AlternativeTo.net
+
+## Changelog v. 0.3
+++ Scaleway
+++ Музей Московского Кремля
+++ Бургер-кинг

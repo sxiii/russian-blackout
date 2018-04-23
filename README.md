@@ -11,12 +11,16 @@ In case RKN ask github to remove this page or somehow tries to block it; please 
 1) Clone this repository to current folder: `git clone https://github.com/sxiii/russian-blackout`<BR> 
 2) Share this text file (README.md) everywhere you can/want.
 
+You can also give your friends short link bit.ly/rublackout.
+
 ## Пожалуйта, сохраните инфу и помогите в распространении
 РКН может попросить github удалить эту станицу или каким-то образом попытаться заблокировать её, поэтому прошу вас скачать этот репозиторий (всего 1 небольшой текстовый файл), и поделиться им всюду (pastebin, forums, zeronet, i2p, tor, etc.). Вот как это сделать:
 
 0) Если у вас не установлен git, поставьте его (см. инструкции в сети для вашей платформы, `sudo apt install git` для ubuntu, `sudo pacman -S git` для arch)<BR> 
 1) Клонируйте репозиторий в текущую папку: `git clone https://github.com/sxiii/russian-blackout`<BR> 
 2) Распространите (этот) текстовый файл README.md везде, где можете или хотите.
+  
+Также можете делиться с друзьями короткой ссылкой bit.ly/rublackout.
 
 ## RKN Suffered List (Список пострадавших от РКН)
 N | Company / website (Компания / сайт) | Details (Детали) |
@@ -55,13 +59,16 @@ N | Company / website (Компания / сайт) | Details (Детали) |
 31 | Музей Московского Кремля | Не работает онлайн-оплата билетов
 32 | Российский Союз Страховщиков | [В РСА сообщают](https://www.gazeta.ru/auto/news/2018/04/23/n_11448499.shtml), что не работает Google reCaptcha, и из-за этого в 10-12 раз снизились продажи полисов ОСАГО.
 33 | VueJS | [Фреймворк Vue.JS](https://madewithvuejs.com)
+34 | GiveMe.ru | [Служба доставки цветов](https://www.vedomosti.ru/technology/articles/2018/04/17/766923-kto-postradal)
+35 | Gross.Wedding | [Служба организации свадеб](https://www.vedomosti.ru/technology/articles/2018/04/17/766923-kto-postradal)
+36 | Открытая Наука | 
 
 ## Messaging, social, planning and business services suffered <BR> Пострадавшие чаты, соц. сети, бизнес-системы, планировщики и мессенджеры
 N | Company / website (Компания / сайт) | Details (Детали) |
 | - | - | - |
 0 | Telegram | Были небольшие перебои в работе мессенджера, однако он по прежнему работоспособен в большинстве локаций.
-1 | Viber | Перестали работать аудио-звонки в мессенджере
-2 | Одноклассники | В компании утверждают, что сбой не связан с Amazon
+1 | Viber | [Перестали работать аудио-звонки в мессенджере](https://www.vedomosti.ru/technology/articles/2018/04/17/766923-kto-postradal)
+2 | Одноклассники | По информации [ведомостей](https://www.vedomosti.ru/technology/articles/2018/04/17/766923-kto-postradal). Однако в компании утверждают, что сбой не связан с Amazon
 3 | Slack | Один из самых популярных корпоративных чатов
 4 | Trello | Популярная KANBAN-система для управления бизнесом, сотрудниками, командами и временем
 5 | Realtimeboard | Доска для совместной работы
@@ -108,7 +115,7 @@ N | Company / website (Компания / сайт) | Details (Детали) |
 N | Company / website (Компания / сайт) | Details (Детали) |
 | - | - | - |
 0 | CDEK | Служба доставки посылок в РФ и странах СНГ: посылки не меняют статусы, водители не могут зарегистрировать прибытие
-1 | "Птичка" | Курьерская служба доставки
+1 | "Птичка" | [Курьерская служба доставки](https://www.vedomosti.ru/technology/articles/2018/04/17/766923-kto-postradal)
 
 ## Games & game services <BR> Игры и сервисы игровой тематики
 N | Company / website (Компания / сайт) | Details (Детали) |
@@ -156,9 +163,13 @@ And in the end, because of overoad, the RKN "Revizor" service was down due to th
 * VPN Compare (сравнение VPN) - https://thatoneprivacysite.net/vpn-section/
 * Search for software/service alternative (поиск альтернативы для софта или сервиса) - https://AlternativeTo.net
 
-## Changelog v. 0.5
+## Changelog v. 0.7
 ++ Scaleway<BR>
 ++ Музей Московского Кремля<BR>
 ++ Бургер-кинг<BR>
 ++ РСА<BR>
 ++ VueJS<BR>
+++ GiveMe & GrossWedding<BR>
+++ Исправлены заголовки и добавлена инструкция скачивания репозитория<BR>
+++ Теперь работает короткая ссылка bit.ly/rublackout<BR>
+++ Добавлено больше ссылок<BR>

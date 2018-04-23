@@ -1,5 +1,5 @@
 theme: jekyll-theme-hacker
 #markdown: kramdown
 #markdown: kramdown
-#jekyll-theme-hacker:
-#  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+jekyll-theme-hacker:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]

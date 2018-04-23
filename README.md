@@ -4,6 +4,13 @@ RKN (RosKomNadzor) caused problems all over Russian Internet while trying to ful
 # блокада рунета
 Из-за деятельности службы РКН (РосКомНадзор) в попытках полностью заблокировать ведомством мессенджер Телеграм, пострадало огромное количество сервисов и служб Российского сегмента интернета. Этот репозиторий - публично редактируемый список пострадавших от деятельности РКН. Если вы тоже пострадали или знаете тех, кто пострадал - пожалуйста, отредактируйте данный список, добавив в него информацию. 
 
+# save the info - сохраните информацию
+In case RKN ask github to remove this page or somehow tries to block it; please clone the repo or download the file & share it everywhere (pastebin, forums, zeronet, i2p, tor, etc.). Here's how you do it:
+РКН может попросить github удалить эту станицу или каким-то образом попытаться заблокировать её, поэтому прошу вас скачать этот репозиторий (всего 1 небольшой текстовый файл), и поделиться им всюду (pastebin, forums, zeronet, i2p, tor, etc.). Вот как это сделать:
+English | Russian
+| - | - |
+0) Если у вас не установлен git, поставьте его (см. инструкции в сети для вашей платформы, `sudo apt install git` для ubuntu, `sudo pacman -S git` для arch)<BR> 1) Клонируйте репозиторий в текущую папку: `git clone https://github.com/sxiii/russian-blackout`<BR> 2) Распространите (этот) текстовый файл README.md везде, где можете или хотите. | 0) If you don't have git installed, please install (search for instructtions on the web or use `sudo apt install git` for ubuntu and `sudo pacman -S git` for arch)<BR> 1) Clone this repository to current folder: `git clone https://github.com/sxiii/russian-blackout`<BR> 2) Share this text file (README.md) everywhere you can/want.
+
 ## RKN Suffered List (Список пострадавших от РКН)
 N | Company / website (Компания / сайт) | Details (Детали) |
 | - | - | - |

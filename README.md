@@ -142,8 +142,9 @@ And in the end, because of overoad, the RKN "Revizor" service was down due to th
 * VPN Compare (сравнение VPN) - https://thatoneprivacysite.net/vpn-section/
 * Search for software/service alternative (поиск альтернативы для софта или сервиса) - https://AlternativeTo.net
 
-## Changelog v. 0.4
-++ Scaleway
-++ Музей Московского Кремля
-++ Бургер-кинг
-++ РСА
+## Changelog v. 0.5
+++ Scaleway<BR>
+++ Музей Московского Кремля<BR>
+++ Бургер-кинг<BR>
+++ РСА<BR>
+++ VueJS<BR>

@@ -24,7 +24,7 @@ You can also give your friends short link bit.ly/rublackout.
 
 ## RKN Suffered List (Список пострадавших от РКН)
 N | Company / website (Компания / сайт) | Details (Детали) |
-| - | - | - |
+| --- | --- | --- |
 0 | Google | Сервера Google Cloud - облачный хостинг гугла, и др.
 1 | Amazon | Облачный хостинг Amazon, офисный пакет Office 365, сервисы основанные на Amazon
 2 | Mastercard | Недоступность платежных карт в некоторых точках
@@ -65,7 +65,7 @@ N | Company / website (Компания / сайт) | Details (Детали) |
 
 ## Messaging, social, planning and business services suffered <BR> Пострадавшие чаты, соц. сети, бизнес-системы, планировщики и мессенджеры
 N | Company / website (Компания / сайт) | Details (Детали) |
-| - | - | - |
+| --- | --- | --- |
 0 | Telegram | Были небольшие перебои в работе мессенджера, однако он по прежнему работоспособен в большинстве локаций.
 1 | Viber | [Перестали работать аудио-звонки в мессенджере](https://www.vedomosti.ru/technology/articles/2018/04/17/766923-kto-postradal)
 2 | Одноклассники | По информации [ведомостей](https://www.vedomosti.ru/technology/articles/2018/04/17/766923-kto-postradal). Однако в компании утверждают, что сбой не связан с Amazon
@@ -86,7 +86,7 @@ N | Company / website (Компания / сайт) | Details (Детали) |
   
 ## Artists and musicians services <BR> Сервисы для музыкантов и художников
 N | Company / website (Компания / сайт) | Details (Детали) |
-| - | - | - |
+| --- | --- | --- |
 0 | SoundCloud | Онлайн-хостинг аудиофайлов, альбомов, продажа треков
 1 | Spotify | Музыкальный стриминговый сервис
 2 | DevianArt | Социальная сеть художников и поэтов
@@ -97,7 +97,7 @@ N | Company / website (Компания / сайт) | Details (Детали) |
  
 ## Students, study, learn <BR> Обучение, сервисы для студентов
 N | Company / website (Компания / сайт) | Details (Детали) |
-| - | - | - |
+| --- | --- | --- |
 0 | Coursera | Онлайн-курсы, образовательная платформа
 1 | Skyeng | Школа английского языка. Компания намерена восстановить работу сервиса, но по данным vc.ru, из-за проблем с доступом она потеряет от 1 до 30 миллионов рублей за один вечер.
 2 | Mkdev.me | Образовательный сервис
@@ -107,19 +107,19 @@ N | Company / website (Компания / сайт) | Details (Детали) |
 
 ## Internet of Things <BR> Интернет вещей
 N | Company / website (Компания / сайт) | Details (Детали) |
-| - | - | - |
+| --- | --- | --- |
 0 | Samsung SmartHub & Apps | Функция "смарт-тв" телевизоров Samsung, предосталвяющая расширенные возможности для ТВ, например сторонние приложения YouTube и приложения телеканалов
 1 | ITEAD / SONOFF | Отказали устройства "умный дом" фирмы ITEAD/SONOFF. Эти устройства призваны управлять электроприборами по сигналу из интернета, у многих эти реле стоят на дачах для управления отопительными котлами, освещением, воротами и т п.
 
 ## Delivery services <BR> Службы доставки
 N | Company / website (Компания / сайт) | Details (Детали) |
-| - | - | - |
+| --- | --- | --- |
 0 | CDEK | Служба доставки посылок в РФ и странах СНГ: посылки не меняют статусы, водители не могут зарегистрировать прибытие
 1 | "Птичка" | [Курьерская служба доставки](https://www.vedomosti.ru/technology/articles/2018/04/17/766923-kto-postradal)
 
 ## Games & game services <BR> Игры и сервисы игровой тематики
 N | Company / website (Компания / сайт) | Details (Детали) |
-| - | - | - |
+| --- | --- | --- |
 0 | Сервисы PlayStation Network | игровые приставки Sony
 1 | Сервисы Xbox | игровые приставки Microsoft
 2 | Сервисы Nintendo Network | игровые приставки Nintendo, Wii, магаззин Nintendo Switch
@@ -140,7 +140,7 @@ N | Company / website (Компания / сайт) | Details (Детали) |
   
 ## VPN & Proxy services <BR> Сервисы VPN & Proxy
 N | Company / website (Компания / сайт) | Details (Детали) |
-| - | - | - |
+| --- | --- | --- |
 0 | @socks5_bot | Телеграм-бот
 1 | @TgVPNbot | Телеграм-бот
 

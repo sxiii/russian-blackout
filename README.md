@@ -39,6 +39,7 @@ N | Company / website (Компания / сайт) | Details (Детали) |
 29 | Scaleway | Облачный хостинг, Амстердам
 30 | Бургер Кинг | Сеть быстрого питания - проблемы с безналичной оплатой
 31 | Музей Московского Кремля | Не работает онлайн-оплата билетов
+32 | Российский Союз Страховщиков | В РСА сообщают, что не работает Google reCaptcha, и из-за этого в 10-12 раз снизились продажи полисов ОСАГО.
 
 ## Messaging, social, planning and business services suffered <BR> Пострадавшие чаты, соц. сети, бизнес-системы, планировщики и мессенджеры
 N | Company / website (Компания / сайт) | Details (Детали) |
@@ -134,10 +135,14 @@ And in the end, because of overoad, the RKN "Revizor" service was down due to th
 * You can help adding links - также можно помочь добавляя ссылки на посты и статьи
 
 ## Useful links <BR> Полезные ссылки
+* Blockings info (информация о блокировках): https://usher2.club
+* Blocking statistics (статистика блокировок): http://rkn.ishukshin.ru
+* Telegram blockings stats (статистика блокировок, телеграм-канал): https://t.me/rknshowtime
 * VPN Compare (сравнение VPN) - https://thatoneprivacysite.net/vpn-section/
-* Search for software/service alternative (поиск альтернативы для софта или сервиса) - AlternativeTo.net
+* Search for software/service alternative (поиск альтернативы для софта или сервиса) - https://AlternativeTo.net
 
-## Changelog v. 0.3
+## Changelog v. 0.4
 ++ Scaleway
 ++ Музей Московского Кремля
 ++ Бургер-кинг
+++ РСА

@@ -4,8 +4,8 @@ theme: jekyll-theme-hacker
 jekyll-theme-hacker:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
   
-markdown: redcarpet
-redcarpet:
+markdown: kramdown
+kramdown:
   extensions:
     - no_intra_emphasis
     - fenced_code_blocks

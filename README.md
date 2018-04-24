@@ -159,11 +159,12 @@ And in the end, because of overoad, the RKN "Revizor" service was down due to th
 ## Useful links <BR> Полезные ссылки
 * Blockings info (информация о блокировках): https://usher2.club
 * Blocking statistics (статистика блокировок): http://rkn.ishukshin.ru
+* Blockings visualisation (визуализация блокировок): https://github.com/ailove-lab/cidr
 * Telegram blockings stats (статистика блокировок, телеграм-канал): https://t.me/rknshowtime
 * VPN Compare (сравнение VPN) - https://thatoneprivacysite.net/vpn-section/
 * Search for software/service alternative (поиск альтернативы для софта или сервиса) - https://AlternativeTo.net
 
-## Changelog v. 0.7
+## Changelog v. 0.8
 ++ Scaleway<BR>
 ++ Музей Московского Кремля<BR>
 ++ Бургер-кинг<BR>
@@ -173,3 +174,4 @@ And in the end, because of overoad, the RKN "Revizor" service was down due to th
 ++ Исправлены заголовки и добавлена инструкция скачивания репозитория<BR>
 ++ Теперь работает короткая ссылка bit.ly/rublackout<BR>
 ++ Добавлено больше ссылок<BR>
+++ Ещё больше полезных ссылок<BR>

@@ -160,11 +160,15 @@ And in the end, because of overoad, the RKN "Revizor" service was down due to th
 * Blockings info (информация о блокировках): https://usher2.club
 * Blocking statistics (статистика блокировок): http://rkn.ishukshin.ru
 * Blockings visualisation (визуализация блокировок): https://github.com/ailove-lab/cidr
+* Проверка на наличие сайта в реестрах: https://blocklist.rkn.gov.ru
+* Реестры запрещенных сайтов: https://reestr.rublacklist.net, https://antizapret.info
+* github-выгрузка реестра: https://github.com/zapret-info/z-i
+* Список IP адресов госорганов и ведомств: https://github.com/AntiZapret/antizapret
 * Telegram blockings stats (статистика блокировок, телеграм-канал): https://t.me/rknshowtime
 * VPN Compare (сравнение VPN) - https://thatoneprivacysite.net/vpn-section/
 * Search for software/service alternative (поиск альтернативы для софта или сервиса) - https://AlternativeTo.net
 
-## Changelog v. 0.8
+## Changelog v. 0.82
 ++ Scaleway<BR>
 ++ Музей Московского Кремля<BR>
 ++ Бургер-кинг<BR>

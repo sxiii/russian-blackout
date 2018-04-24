@@ -24,7 +24,7 @@ You can also give your friends short link bit.ly/rublackout.
 
 ## RKN Suffered List (Список пострадавших от РКН)
 N | Company / website (Компания / сайт) | Details (Детали) |
-| ------------- |:-------------:| -----:|
+|-------------|-------------|-----|
 0 | Google | Сервера Google Cloud - облачный хостинг гугла, и др.
 1 | Amazon | Облачный хостинг Amazon, офисный пакет Office 365, сервисы основанные на Amazon
 2 | Mastercard | Недоступность платежных карт в некоторых точках

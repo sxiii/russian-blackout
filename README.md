@@ -61,7 +61,7 @@ N | Company / website (Компания / сайт) | Details (Детали) |
 33 | VueJS | [Фреймворк Vue.JS](https://madewithvuejs.com)
 34 | GiveMe.ru | [Служба доставки цветов](https://www.vedomosti.ru/technology/articles/2018/04/17/766923-kto-postradal)
 35 | Gross.Wedding | [Служба организации свадеб](https://www.vedomosti.ru/technology/articles/2018/04/17/766923-kto-postradal)
-36 | Открытая Наука | 
+36 | Открытая Наука |
 
 ## Messaging, social, planning and business services suffered <BR> Пострадавшие чаты, соц. сети, бизнес-системы, планировщики и мессенджеры
 N | Company / website (Компания / сайт) | Details (Детали) |
@@ -83,7 +83,7 @@ N | Company / website (Компания / сайт) | Details (Детали) |
 14 | HyperComments | Система комментариев для сайтов и блогов
 15 | Магазин Amazon | Онлайн-торговцы потеряли возможность продавать товары в РФ
 16 | ТамТам | Мессенджер от Одноклассников
-  
+
 ## Artists and musicians services <BR> Сервисы для музыкантов и художников
 N | Company / website (Компания / сайт) | Details (Детали) |
 | --- | --- | --- |
@@ -168,7 +168,10 @@ And in the end, because of overoad, the RKN "Revizor" service was down due to th
 * VPN Compare (сравнение VPN) - https://thatoneprivacysite.net/vpn-section/
 * Search for software/service alternative (поиск альтернативы для софта или сервиса) - https://AlternativeTo.net
 
-## Changelog v. 0.82
+## Other lists
+* [Pastebin list of 176 blocked ips - Список из 176 заблокированных адресов](https://pastebin.com/nh2aWTDb)
+
+## Changelog v. 0.83
 ++ Scaleway<BR>
 ++ Музей Московского Кремля<BR>
 ++ Бургер-кинг<BR>
@@ -179,3 +182,4 @@ And in the end, because of overoad, the RKN "Revizor" service was down due to th
 ++ Теперь работает короткая ссылка bit.ly/rublackout<BR>
 ++ Добавлено больше ссылок<BR>
 ++ Ещё больше полезных ссылок<BR>
+++ Cсылка на последние заблокированные адреса яндекса, вконтакте, гугла, майкрософта и др.

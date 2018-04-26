@@ -168,8 +168,66 @@ And in the end, because of overoad, the RKN "Revizor" service was down due to th
 * VPN Compare (сравнение VPN) - https://thatoneprivacysite.net/vpn-section/
 * Search for software/service alternative (поиск альтернативы для софта или сервиса) - https://AlternativeTo.net
 
-## Other lists
-* [Pastebin list of 176 blocked ips - Список из 176 заблокированных адресов](https://pastebin.com/nh2aWTDb)
+## Other lists - pastebin - другие списки
+* https://pastebin.com/K9w3nYy5
+* https://pastebin.com/66CUnCDD
+* https://pastebin.com/nh2aWTDb
+* https://pastebin.com/vLcqyTVN
+* https://pastebin.com/xdtBtW4i
+* https://pastebin.com/n2dumUa8
+* https://pastebin.com/iRqjynVN
+* https://pastebin.com/n2dumUa8
+* https://pastebin.com/iRqjynVN
+* https://pastebin.com/y6siBZKP
+* https://pastebin.com/RBBWV8QG
+* https://pastebin.com/P7FfDS1R
+* https://pastebin.com/tr6rh2B6
+* https://pastebin.com/GPgfYuCW
+* https://pastebin.com/Y6KG07n3
+* https://pastebin.com/LP0jVisa
+* https://pastebin.com/UP0ex4HM
+* https://pastebin.com/4Ji3FkCy
+* https://pastebin.com/ND2EDAr0
+* https://pastebin.com/JwqvwHwh
+* https://pastebin.com/j3xbZqWY
+* https://pastebin.com/WLrGVM7J
+* https://pastebin.com/wjszWrt2
+* https://pastebin.com/pvmsJmWA
+* https://pastebin.com/LD9pNGx2
+* https://pastebin.com/qcgN618w
+* https://pastebin.com/nX38gyje
+* https://pastebin.com/QUyXSAFg
+* https://pastebin.com/Y3H2xm79
+* https://pastebin.com/ysQPhyRM
+* https://pastebin.com/N1uK22Yd
+* https://pastebin.com/V7YPQ2nC
+* https://pastebin.com/R6iULf5z
+* https://pastebin.com/jQrkKiGJ
+* https://pastebin.com/TrVd2a6x
+* https://pastebin.com/26cvaADK
+* https://pastebin.com/N5ffmNnT
+* https://pastebin.com/JCNgdhf7
+* https://pastebin.com/FYhaTR8E
+* https://pastebin.com/2JYAUPr5
+* https://pastebin.com/ktpNvrjw
+* https://pastebin.com/K02yXzRV
+* https://pastebin.com/SgP8newq
+* https://pastebin.com/7LYsEnri
+* https://pastebin.com/2uM7yrXj
+* https://pastebin.com/adieK1KY
+* https://pastebin.com/XP5XqWhU
+* https://pastebin.com/ZKjuK7ks
+* https://pastebin.com/DRRR9hDy
+* https://pastebin.com/39DqTeVe
+* https://pastebin.com/JNHCDENt
+* https://pastebin.com/civq66C7
+* https://pastebin.com/AkuJUmHn
+* https://pastebin.com/FVajss1c
+* https://pastebin.com/CZkqNpHG
+* https://pastebin.com/rDXBNDSQ
+* https://pastebin.com/CWsYzvdV
+* https://pastebin.com/QJWwWrFG
+* https://pastebin.com/Wi5ssxqP
 
 ## Changelog v. 0.83
 ++ Scaleway<BR>

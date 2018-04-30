@@ -167,7 +167,8 @@ And in the end, because of overoad, the RKN "Revizor" service was down due to th
 * Telegram blockings stats (статистика блокировок, телеграм-канал): https://t.me/rknshowtime
 * VPN Compare (сравнение VPN) - https://thatoneprivacysite.net/vpn-section/
 * Search for software/service alternative (поиск альтернативы для софта или сервиса) - https://AlternativeTo.net
-
+* Кто негативно высказывался о РКН: https://nazarov-tech.github.io/rkn/docs/
+  
 ## Other lists - pastebin - другие списки
 * https://pastebin.com/K9w3nYy5
 * https://pastebin.com/66CUnCDD
@@ -229,7 +230,7 @@ And in the end, because of overoad, the RKN "Revizor" service was down due to th
 * https://pastebin.com/QJWwWrFG
 * https://pastebin.com/Wi5ssxqP
 
-## Changelog v. 0.83
+## Changelog v. 0.84
 ++ Scaleway<BR>
 ++ Музей Московского Кремля<BR>
 ++ Бургер-кинг<BR>
@@ -241,3 +242,4 @@ And in the end, because of overoad, the RKN "Revizor" service was down due to th
 ++ Добавлено больше ссылок<BR>
 ++ Ещё больше полезных ссылок<BR>
 ++ Cсылка на последние заблокированные адреса яндекса, вконтакте, гугла, майкрософта и др.
+++ Негативные отзывы об РКН

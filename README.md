@@ -62,6 +62,7 @@ N | Company / website (Компания / сайт) | Details (Детали) |
 34 | GiveMe.ru | [Служба доставки цветов](https://www.vedomosti.ru/technology/articles/2018/04/17/766923-kto-postradal)
 35 | Gross.Wedding | [Служба организации свадеб](https://www.vedomosti.ru/technology/articles/2018/04/17/766923-kto-postradal)
 36 | Открытая Наука |
+37 | Mozilla | Браузер Mozilla Firefox, почтовый клиент Thunderbird
 
 ## Messaging, social, planning and business services suffered <BR> Пострадавшие чаты, соц. сети, бизнес-системы, планировщики и мессенджеры
 N | Company / website (Компания / сайт) | Details (Детали) |
@@ -83,6 +84,7 @@ N | Company / website (Компания / сайт) | Details (Детали) |
 14 | HyperComments | Система комментариев для сайтов и блогов
 15 | Магазин Amazon | Онлайн-торговцы потеряли возможность продавать товары в РФ
 16 | ТамТам | Мессенджер от Одноклассников
+17 | Mozilla Firefox | Сервис установки расширений и облачной синхронизации
 
 ## Artists and musicians services <BR> Сервисы для музыкантов и художников
 N | Company / website (Компания / сайт) | Details (Детали) |
